@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "recipeName": "Classic Caesar Salad",
+        "Preparation": ["-"],
+        "ingredient": ["8/10 leaves of Romaine", "1 cup croutons", "⅓ cup parmesan cheese"],
+        "Dressing":[ "1 clove garlic", "1 tablespoon lemon juice", "1 tablespoon Worcestershire sauce"," ½ tablespoon mustard sauce, black pepper"," ½ cup light olive oil or canola oil"," ¼ cup parmesan"],
+        "image": "./image/1.png"
+    },
+    {
+        "id": "2",
+        "recipeName": "Greek Salad",
+        "Preparation": ["Make the dressing: In a small bowl", "whisk together the olive oil", "vinegar", "garlic", "oregano", "mustard", "salt", "and several grinds of pepper." ,"Add the cucumber", "green pepper", "cherry tomatoes", "feta cheese", "red onions", "and olives in the bowl." ,"Drizzle with the dressing and very gently toss. Sprinkle with oregano and garnish with mint leaves. Seasoning can be added according to taste."],
+        "ingredient": ["1 english cucumber", "1 green bell pepper", "2 cups cherry tomatoes", "One bowl cut feta cheese cubes (paneer is a substitute)", "⅓ cup thinly sliced red onion"," ⅓ cup olives"," ⅓ cup fresh mint leaves"],
+        "Dressing": ["-"],
+        "image": "./image/5.png"
+    },
+    {
+        "id": "3",
+        "recipeName": "Evening Pasta Salad",
+        "Preparation": ["Wash and cut the veggies into small pieces.", "Prepare the dressing by mixing all the ingredients well.", "Chop or tear the lettuce leaves into bite sized pieces.", "Mix the above. Add the boiled pasta and toss gently Serve in a bowl and sprinkle seasonings according to taste."],
+        "ingredient": ["Lettuce leaves(Lollo Rosso, Locarno ,butterhead)", "1/2 cup boiled corn", "1/2 cup chopped cucumbers", "(Onions/ tomatoes/ bell peppers can be added if preferred)", "1/2 Cup boiled pasta"],
+        "Dressing": ["2 tablespoon virgin olive oil", "3 tablespoon lemon juice", "1 tablespoon Vinegar", "Spices (black pepper, oregano, Salt) according to taste", "Tip: You can also drizzle fat-free mayonnaise."],
+        "image": "./image/4.png"
+    },
+    {
+        "id": "4",
+        "recipeName": "Light Lettuce sandwich",
+        "Preparation": ["Spread some butter and mayonnaise on one of the slice of bread and add cheese slice on top. ","On the other slice of bread, add the lettuce, Italian basil and chopped cherry tomatoes.", "Also add the onions and the spices. ","Combine both of the slices and serve with your favourite dressing sauce." ,"Tip: Toasting the bread gives it extra crunchiness."],
+        "ingredient": ["Lettuce ( Lollo Rosso / Butterhead)"," 1 big Italian basil", "1-2 Cherry tomatoes", "sliced in half", "2 slices of bread", "Mayonnaise ( fat-free is healthier)", "Butter", "1 cheese slice or grated cheese or paneer/tofu optional)", "Spices (black pepper, oregano, salt, red chilli flakes) according to taste"],
+        "Dressing": ["-"],
+        "image": "./image/3.png"
+    },
+    {
+        "id": "5",
+        "recipeName": "Basil Pesto Pasta",
+        "Preparation": ["Blend basil leaves, nuts, cheese, garlic and black pepper together."," Drizzle some olive oil and continue blending, to make purée."," Take a pan and drizzle some olive oil on it. Sauté the garlic until yellow."," Pour the boiled pasta. When the pasta starts sticking to the pan, add the pasta water."," When the garlic turns golden brown, take it off the stove and pour it in to the pesto sauce.", "Serve in a bowl and garnish with the cherry tomato or Parmesan."],
+        "ingredient": ["7-8 large and fresh basil leaves"," 2 cups boiled pasta/ spaghetti (save around 1-2 teaspoons of the pasta water for later)"," 1 cherry tomato,sliced finely (for topping)", "2 tablespoons grated Parmesan cheese", "3 chopped garlic cloves", "2 tablespoon almonds", "Extra virgin olive oil", "Spices according to taste"],
+        "Dressing": ["-"],
+        "image": "./image/6.png"
+    },
+    {
+        "id": "6",
+        "recipeName": "Detox Refreshment Drink",
+        "Preparation": ["Place the lemons, and ginger in a large pitcher."," Rub the basil leaves between your hands and add to the pitcher." ,"Add the drinking water and refrigerate for 1 hour.", "Flavours will release into the water."," Serve over ice with some pieces of cucumber."],
+        "ingredient": ["4-5 leaves of HerbShire Lemon Basil", "Few slices of Cucumber", "Few slices of Lemon, One piece of ginger"],
+        "Dressing": ["-"],
+        "image": "./image/2.png"
+    },
+    {
+        "id": "7",
+        "recipeName": "Pakchoy Kadhi",
+        "Preparation": ["Cut chillies, onion and separate pakchoy leaves."," Place besan in a bowl. Pour buttermilk, salt, and mix well.","Pour oil in the pan and Add mustard seeds, cumin and let them fry."," Add curry leaves, ginger garlic paste.", "Then add turmeric powder."," Now add chilies, onion, tomato and pakchoy.", "Cook for 2-3 minutes.", "Add buttermilk and besan mix. Let it boil in medium high.", "Once boiled, turn off."," Garnish with parsley or dhaniya."],
+        "ingredient": ["2 tbsp vegetable oil", "⅛th tsp cumin", "⅛th tsp black mustard seeds", "6-7 pakchoy leaves", "1 full tomato", "½ medium-sized onion", "2 cups fresh buttermilk", "½ cup besan", "2/3 chilies", "⅛th tsp turmeric powder", "curry leaves", "¼ tsp ginger garlic paste"],
+        "Dressing": ["-"],
+        "image": "./image/8.png"
+    },
+    {
+        "id": "8",
+        "recipeName": "Green Hyderabadi Biryani",
+        "Preparation": ["Wash and soak the rice in water for about 30 minutes and drain the extra water.", "Soak the cashews in water for later Take oil (olive will be healthier) and add cumin seeds, green chillies, ginger, garlic."," Slowly add chopped onion and sauté.", "Now add the chopped vegetables (except lettuce), spices and stir fry.", "Add the boiled rice mixed with the baby spinach paste and chopped mint leaves Serve in a large bowl with crispy lettuce, cherry tomatoes and garnish with the cashews."],
+        "ingredient": ["Lettuce leaves (summer crisp/lollo rosso)", "2-3 cherry tomatoes", "5-6 chopped mint leaves", "1 cup baby spinach paste", "2 cups basmati rice", "2-3 finely chopped green chillies", "Small piece of ginger", "5-6 finely chopped garlic cloves, Onions, Fresh beans, Green peas", "4-5 soaked cashew nuts", "Spices according to taste"],
+        "Dressing": ["-"],
+        "image": "./image/7.png"
+    }
+]
